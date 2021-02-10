@@ -35,7 +35,9 @@ edit text in insert mode:
 - `C-w`, delete 1 word
 - `C-u`, delete to the start of the line
 - `C-b/f`, move the cursor back/front
-- `C-p/n`, activate auto complete  
+- `C-j/k`, move the cursor up/down
+- `C-p/n`, activate auto complete
+- `C-m`, enter key
 
 ## Register
 
