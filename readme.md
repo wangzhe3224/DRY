@@ -28,10 +28,12 @@ Main subjects to practise:
     * Linux
 - Languages
     * Python
-    * Erlang
-    * Clojure
     * Ocaml
+    * Clojure
+    * Erlang
     * C
+    * Java
+    * C++
     * Haskell
 - Data Structure and Algorithms
     * Data Structures and Algorithms in Python
@@ -106,6 +108,7 @@ or any library you are using on daily work.
 Here is a list of wheels:
 - Computation Graph
 - A compiler
+- A database
 
 ### Word Problems
 
@@ -127,10 +130,39 @@ TODO:
 This is about understanding how computer works in a details way. Coding in
 general is about high level abstractions. 
 
+- [ ] Hardware/Software Interface
 - [ ] Operating Systems
 - [ ] Compiler
 - [ ] Networking
-- [x] Databases
+- [ ] Databases
+
+Here are some open courses:
+
+**Hardware/Software Interface**
+- [CSE351: The Hardware/Software Interface](http://courses.cs.washington.edu/courses/cse351/)
+- [深入理解计算机系统(CSAPP)](http://product.dangdang.com/24106647.html)
+- [Videos](https://www.bilibili.com/video/BV1Zt411s7Gg)
+
+**Operating System**
+
+- [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/index.html)
+- [操作系统导论(Operating Systems: Three Easy Pieces)](http://product.dangdang.com/27882546.html)
+- [HMC CS 134 2019 Operating System](https://www.bilibili.com/video/av47977122)
+
+**Compiler**
+
+- [CS143](https://web.stanford.edu/class/cs143/)
+- [CS143 斯坦福编译原理](https://www.bilibili.com/video/BV1cE411f78c)
+
+**Networking**
+
+- [CS 144 Introduction to Computer Networking](https://cs144.github.io/)
+- [斯坦福大学：CS144 计算机网络介绍](https://www.bilibili.com/video/BV137411Z7LR)
+
+**Databases**
+
+- [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2020/)
+- [卡耐基梅隆大学15-445 数据库系统介绍](https://www.bilibili.com/video/BV1Cp4y1C7dv)
 
 ## References
 
