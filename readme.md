@@ -1,8 +1,8 @@
-# Do Repeat Yourself, DRY!
+# Do Repeat Yourself, DRY
 
 Coding is a kind of skill like other skill, such as playing guitar, hence it
 requires *dedicated* exercises to be at coding. This project is for me to plan
-and keep track my coding practice. 
+and keep track my coding practice.
 
 So the idea is, `Do Repeat Yourself`, aka, DRY!! (Yeah, not that DRY)
 
@@ -24,22 +24,22 @@ plan, so you see the structure and progress.
 Main subjects to practise:
 
 - Tools
-    * Vim
-    * Linux
+  - Vim
+  - Linux
 - Languages
-    * Python
-    * Ocaml
-    * Clojure
-    * Erlang
-    * C
-    * Java
-    * C++
-    * Haskell
+  - Python
+  - Ocaml
+  - Clojure
+  - Erlang
+  - C
+  - Java
+  - C++
+  - Haskell
 - Data Structure and Algorithms
-    * Data Structures and Algorithms in Python
+  - Data Structures and Algorithms in Python
 - Having Fun
-    * FoxDot
-    * Tidal Cycle :-)
+  - FoxDot
+  - Tidal Cycle :-)
 - Re-invent the Wheels
 - Word Problems
 - Software Engineering
@@ -56,7 +56,7 @@ should be natural to me.
 
 I also list other languages here because I used them time to time to finish my
 master course. And they are so unique and fun to cope with. They provided
-different views of coding. 
+different views of coding.
 
 - Haskell: Functional Programming Course
 - Ocaml: [CS3110 Data Structure and Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2018sp/)
@@ -73,7 +73,7 @@ combos. I tried several of them, Emacs, VS code, Vim, and I ended up with Vim.
 The reason is simple: Vim logic is universal. Once you familiar with it, the
 logic can adapt to other editors/IDEs, while other editors key combos vary
 quite a lot, and some of them not making to much sense. Some of them are too
-many keys to press.. Your hands stretch. 
+many keys to press.. Your hands stretch.
 
 Vim's way of editing looks very strange or canter intuitive at beginning. But
 please do check and learn it a bit. Once getting used to it, it make typing and
@@ -85,9 +85,9 @@ editing so fluent with less effort.
 
 ### Data Structure and Algorithms
 
-This need a daily exercise in code. 
+This need a daily exercise in code.
 
-- [ ] Before and after finish a algorithm, make sure I understand its complexity. 
+- [ ] Before and after finish a algorithm, make sure I understand its complexity.
 - [ ] Try in different language as part of language practice
 - [ ] Implement common data structures
 - [ ] Implement common algorithm (this is some times tie to data structures)
@@ -99,36 +99,38 @@ I started with this book `Data Structures and Algorithms in Python`.
 Practicing data structure and algorithm is part of re-invent wheels, as I am
 building something that already exist. However, just like practicing music, you
 start by playing famous and good music, then you can create even better ones.
-Here we talk about the same thing. 
+Here we talk about the same thing.
 
 But re-invent wheel can involve more, such as building as small web server,
 building a database, building a compiler, building a graph processing library,
 or any library you are using on daily work.
 
 Here is a list of wheels:
+
 - Computation Graph
 - A compiler
 - A database
 
 ### Word Problems
 
-This is larger problem solving exercises. 
+This is larger problem solving exercises.
 
 - [Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 - [Leetcode](https://leetcode.com/)
 
 ### Software Engineering
 
-This about good coding practices to build larger and maintainable software. 
+This about good coding practices to build larger and maintainable software.
 
 TODO:
-- [ ] Service-oriental 
+
+- [ ] Service-oriental
 - [ ] Distributed system
 
 ### "Low-level" Stuff of Computers
 
 This is about understanding how computer works in a details way. Coding in
-general is about high level abstractions. 
+general is about high level abstractions.
 
 - [ ] Hardware/Software Interface
 - [ ] Operating Systems
@@ -139,6 +141,7 @@ general is about high level abstractions.
 Here are some open courses:
 
 **Hardware/Software Interface**
+
 - [CSE351: The Hardware/Software Interface](http://courses.cs.washington.edu/courses/cse351/)
 - [深入理解计算机系统(CSAPP)](http://product.dangdang.com/24106647.html)
 - [Videos](https://www.bilibili.com/video/BV1Zt411s7Gg)
