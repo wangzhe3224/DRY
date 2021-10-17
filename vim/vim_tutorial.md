@@ -74,6 +74,8 @@ w/b/e      按照单词移动
 %          在闭合的括号之间移动
 gg         回到文档最上端
 G          回到文档最低端
+0          回到行首
+$          回到行尾
 ```
 
 加入数量：
@@ -107,10 +109,15 @@ G          回到文档最低端
 在插入模式下，Vim的光标移动遵循了一半 Bash shell 的快捷键。
 
 ```text
-Ctrl p     up
-Ctrl n     down
-Ctrl b     left
-Ctrl f     right
+Ctrl+p     up
+Ctrl+n     down
+Ctrl+b     left
+Ctrl+f     right
+Ctrl+a     到行首
+Ctrl+e     到行位
+Ctrl+h     delete 1 
+Ctrl+w     delete back 1 word
+Ctrl+u     delete back to start of line
 ```
 
 #### Visual Mode
