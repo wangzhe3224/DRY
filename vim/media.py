@@ -9,7 +9,8 @@ class Media(ABC):
 
     @abstractproperty
     def name(self) -> str:
-        ...
+        print("hello")
+        print("?")
 
     @abstractproperty
     def description(self) -> str:
